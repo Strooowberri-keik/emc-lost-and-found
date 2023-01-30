@@ -1,0 +1,12 @@
+{
+    "name": "earist-lost-and-found",
+    "version": "1.0.0",
+    "description": "A website for lost and found items",
+    "main": "index.php",
+    "scripts": {
+      "start": "index.php"
+    },
+    "author": "John Doe",
+    "license": "MIT",
+    "outputPath": "htdocs/earist-lost-and-found-website"
+  }
